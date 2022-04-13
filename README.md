@@ -1,6 +1,9 @@
 # Position-aware Location Regression Network for Temporal Video Grounding
 
 
+This repository contains an official PyTorch implementation of Position-aware Location Regression Network (PLRN) for temporal video grounding, which is presented in the paper [Position-aware Location Regression Network for Temporal Video Grounding](https://arxiv.org/abs/2204.05499).
+
+
 ### PLRN
 
 
