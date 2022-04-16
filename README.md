@@ -35,11 +35,7 @@ bash scripts/train_model.sh PLRN plrn charades 0 4 0
 ```
 conda activate plrn
 cd PLRN
-CUDA_VISIBLE_DEVICES=0 python -m src.experiment.eval \
-                     --config pretrained_models/charades/PLRN.yml \
-                     --checkpoint pretrained_models/charades/model.pkl \
-                     --method plrn \
-                     --dataset charades
+bash scripts/eval_model.sh PLRN plrn charades 0
 ```
 
 
