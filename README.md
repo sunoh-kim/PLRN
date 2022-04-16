@@ -44,7 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python -m src.experiment.eval \
 
 
 ## Acknowledgement
-[LGI](https://github.com/JonghwanMun/LGI4temporalgrounding) was very helpful for our implementation.
+[Local-Global Video-Text Interactions for Temporal Grounding](https://github.com/JonghwanMun/LGI4temporalgrounding) was very helpful for our implementation.
 
 ## Citation
 If you have found our implementation useful, please cite our paper:
