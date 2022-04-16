@@ -30,7 +30,7 @@ cd PLRN
 bash scripts/train_model.sh PLRN plrn charades 0 4 0
 ```
 
-## Evaluating
+## Evaluation
 
 ```
 conda activate plrn
